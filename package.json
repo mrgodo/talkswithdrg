@@ -14,7 +14,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sguthals/talkswithdrg/issues"
+    "url": "https://github.com/sguthals/talkswithdrg/issues",
+    "url": "https://github.com/mrgodo/talkswithdrg/issues",
+    "url": "https://github.com/deatheagle/talkswithdrg/issues"
   },
   "homepage": "https://github.com/sguthals/talkswithdrg#readme",
   "dependencies": {
